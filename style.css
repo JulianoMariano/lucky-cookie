@@ -1,0 +1,167 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+}
+
+.hide {
+  display: none;
+}
+
+body {
+  background: linear-gradient(45deg, #203ed4 0%, #73ddeb 100%);
+  animation: gradient 10s ease infinite;
+  background-size: 200% 200%;
+
+  font-size: 2.4rem;
+
+  display: grid;
+  place-items: center;
+
+  height: 100vh;
+}
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+main .screen1 {
+  background: white;
+  box-shadow: 0px 20px 50px rgba(0, 0, 0, 0.8);
+  border-radius: 5px;
+  padding: 4.8rem 6.4rem 6.4rem;
+  
+  width: 43rem;
+  height: 42rem;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 1.4rem;
+}
+
+h1, h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.6rem;
+
+  color: #34355B;
+  font-weight: 700;
+}
+
+p {
+  font-family: 'DM Sans', sans-serif;
+  color: #34355B;
+  font-size: 1.5rem;
+  line-height: 2rem;
+  
+  margin-bottom: 2rem;
+}
+
+#btnCookie {
+  background-color: #ffffff;
+  border: none;
+  cursor: pointer;
+}
+
+#img1 {
+  position: relative;
+  top: 3rem;
+  right: 2rem;
+}
+
+#img1:hover {
+  animation: tremer 150ms;
+  animation-iteration-count: 100;
+}
+@keyframes tremer {
+  0% {margin-top: .3rem}
+  15% {margin-top: -.3rem}
+
+  20% {margin-right: .3rem}
+  30% {margin-right: -.3rem}
+  
+  40% {margin-bottom: .3rem}
+  45% {margin-bottom: -.3rem}
+  
+  50% {margin-left: .3rem}
+  100% {margin-left: -.3rem}
+}
+
+main .screen2 {
+  background: white;
+  box-shadow: 0px 20px 50px rgba(0, 0, 0, 0.8);
+  border-radius: 5px;
+  padding: 4.8rem 6.4rem;
+
+  width: 43rem;
+  height: 57rem;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Dancing Script', cursive;
+  font-weight: 400;
+  font-size: 2.5rem;
+  
+  text-align: center;
+  
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  gap: 1rem;
+  width: 29rem;
+  height: 13rem;
+  
+  background: #E4EDF1;
+  box-shadow: 2px 2px 2px rgba(85, 85, 85, 0.5);
+
+  margin-top: 2rem;
+
+  animation: downtop 2000ms;
+}
+
+@keyframes downtop {
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+
+  0% {
+    opacity: 1;
+    transform: translateY(18rem) scale(0);
+  }
+}
+
+#img2 {
+  margin-top: 5rem;
+  width: 28rem;
+} 
+
+#btnAgain {
+  color: #ffffff;
+  background-color: #ff9500;
+  border: none;
+  border-radius: .4rem;
+  cursor: pointer;
+  transition: background .3s ;
+
+  padding: 1.6rem;
+  margin-top: 7rem;
+}
+
+#btnAgain:hover {
+  background-color: #ff6703;
+}

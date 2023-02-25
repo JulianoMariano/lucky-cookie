@@ -1,7 +1,7 @@
 <h1 align="center"> Biscoito Da Sorte🍀 </h1>
 
 <p align="center">
-NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+O biscoito da sorte foi uma aplicação proposta pela RocketSeat no programa de formação WEB EXPLORER e desenvolvida por mim, Juliano Mariano. <br/>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
 <br>
 
 <p align="center">
-  <img alt="projeto " src=".github/preview.jpg" width="100%">
+  <img alt="projeto " src="./assets/preview-lucy-cookie.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -24,21 +24,19 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Git e Github
+- Figma
 
 ## 💻 Projeto
 
-A sorte de hoje foi lançada, basta clicar no biscoitinho!!!🍀
+O bicoistinho da sorte foi desenvolvido para deixar o seu dia mais leve, animado e otimista.
+Descanse o mouse em cima do biscoitinho por alguns segundos e depois clique nele e terá uma mensagem que com toda certeza, vai melhorar o seu dia!!!🍀
 
-- [Visite o projeto online](https://julianomariano.github.io/NLW-Setup-01.23/)
+- [Visite o projeto online](https://julianomariano.github.io/lucky-cookie/)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1182751789348533739). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## :memo: Licença
+## 🌐 Contato
 
-Esse projeto está sob a licença MIT.
-
----
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+LinkedIn: https://www.linkedin.com/in/juliano-marianodev/

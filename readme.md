@@ -8,13 +8,13 @@ O biscoito da sorte foi uma aplicação proposta pela RocketSeat no programa de 
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-contato">Contato</a>
+  <a href="#-Contato">Contato</a>
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="projeto " src="./assets/preview-lucy-cookie.png" width="100%">
+  <img alt="projeto " src="./assets/preview-lucy-cookie.png" width="90%">
 </p>
 
 ## 🚀 Tecnologias
@@ -39,4 +39,5 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 ## 🌐 Contato
 
-LinkedIn: https://www.linkedin.com/in/juliano-marianodev/
+LinkedIn: Juliano Mariano
+ -  https://www.linkedin.com/in/juliano-marianodev/

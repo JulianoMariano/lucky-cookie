@@ -24,11 +24,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Git e Github
-- Figma
 
 ## 💻 Projeto
 
-O Habits é um app para ajudar a rastrear os hábitos.
+A sorte de hoje foi lançada, basta clicar no biscoitinho!!!🍀
 
 - [Visite o projeto online](https://julianomariano.github.io/NLW-Setup-01.23/)
 
